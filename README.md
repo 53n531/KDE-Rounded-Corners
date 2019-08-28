@@ -1,7 +1,7 @@
 # Korners
 Rounded window corners for KDE Plasma 5+.
 
-![After](https://raw.githubusercontent.com/alex47/KDE-Rounded-Corners/master/screenshot.png)
+![After](https://raw.githubusercontent.com/53n531/korners/master/screenshot.png)
 
 # How to build:
 ```
